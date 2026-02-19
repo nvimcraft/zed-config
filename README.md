@@ -1,5 +1,10 @@
 # Zed Editor Configuration
 
+> **NOTE**
+> This repository is an **archival record** of the configuration.  
+> It is no longer updated. For the current version, see the official Gist:  
+> ➡ [Zed configuration Gist](https://gist.github.com/nvimcraft/eff4fce336ed7e7e4c52e07641ac57ef)
+
 ![Zed Editor Configuration Screenshot](assets/zed-configuration-screenshot.jpeg)
 
 This repository contains a maintained configuration for the Zed editor.
