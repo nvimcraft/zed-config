@@ -73,6 +73,14 @@
     "button": false
   },
 
+  // Diagnostics
+  "diagnostics": {
+    "inline": {
+      "enabled": true,
+      "max_severity": "all"
+    }
+  },
+
   // Terminal
   "terminal": {
     "alternate_scroll": "off",
