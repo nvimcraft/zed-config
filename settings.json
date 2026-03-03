@@ -7,14 +7,17 @@
   "agent_ui_font_size": 18.0,
   "agent_buffer_font_size": 18.0,
 
-  // Theme & Icons
-  "theme": "Vague",
-  "theme_overrides": {
-    "Vague": {
-      "border": "#141415"
+  // Theme
+  "theme": "Everforest Dark Hard (material)",
+  "experimental.theme_overrides": {
+    "editor.background": "#2772e33",
+    "border": "#272e33",
+    "syntax": {
+      "comment": {
+        "font_style": "italic"
+      }
     }
   },
-  "icon_theme": "Colored Zed Icons Theme Dark",
 
   // Editor Behavior
   "vim_mode": true,
