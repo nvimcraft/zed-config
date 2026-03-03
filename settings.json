@@ -139,5 +139,17 @@
   "telemetry": {
     "diagnostics": false,
     "metrics": false
+  },
+
+  // Agents
+  "agent": {
+    "default_profile": "ask",
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "gpt-5-mini",
+      "enable_thinking": true
+    },
+    "favorite_models": [],
+    "model_parameters": []
   }
 }
