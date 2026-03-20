@@ -1,5 +1,10 @@
 # Zed Editor Configuration
 
+> **NOTE**
+> This repository is an **archival record** of the configuration.  
+> It is no longer updated. For the current version, see the official Gist:  
+> [Zed configuration Gist](https://gist.github.com/nvimcraft/17c233492b54de0ca8602110ebb25bf6)
+
 ![Zed Editor Configuration Screenshot](assets/zed-configuration-screenshot.jpeg)
 
 ## Fonts
@@ -19,6 +24,6 @@ brew install font-lilex-nerd-font
 - Theme and icon theme
 - Misc defaults
 
-## Keybindings:
+## Keybindings
 
 - Default
